@@ -1,6 +1,6 @@
 # RickAndMortyApp 
 
-This Android application, built with Kotlin, consumes the [Rick and Morty API](https://rickandmortyapi.com/) to display character information in a user-friendly interface.
+This Android application, built with Java, consumes the [Rick and Morty API](https://rickandmortyapi.com/) to display character information in a user-friendly interface.
 
 ## Features
 
